@@ -145,7 +145,7 @@ CarouselSlider(
 
 ## Add
 
-- `CarouselController`
+- `CarouselSliderController`
 
 Since `v2.0.0`, `carousel_slider` plugin provides a way to pass your own `CaourselController`, and you can use `CaouselController` instance to manually control the carousel's position. For a more detailed example please refer to [example project](example/lib/main.dart).
 
